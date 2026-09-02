@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Takia Sultana Nova</h1>
 
-### Aspiring Software Developer | JavaScript & TypeScript Enthusiast
+<h2 align="center">Full Stack Developer | JavaScript & TypeScript Enthusiast</h2>
 
 ## 💻👨‍💻 About Me
 
@@ -58,7 +58,7 @@ Currently, I'm focused on building real-world projects, strengthening my develop
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takianova&show_icons=true&locale=en&layout=compact" alt="takianova" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takianova&show_icons=true&locale=en" alt="takianova" /></p>
 
