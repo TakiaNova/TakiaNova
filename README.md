@@ -58,3 +58,8 @@ Currently, I'm focused on building real-world projects, strengthening my develop
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takianova&show_icons=true&locale=en&layout=compact" alt="takianova" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takianova&show_icons=true&locale=en" alt="takianova" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
