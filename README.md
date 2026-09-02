@@ -2,86 +2,29 @@
   <img src="./banner.png" alt="Takia Sultana Nova GitHub Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Takia Sultana Nova</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="center">
-  <strong>Aspiring Full Stack Developer | Learner | Builder</strong>
+- 🔭 I’m currently working on [DevConf-2026](https://github.com/TakiaNova/assignment1.git)
+
+- 🌱 I’m currently learning **TypeScript, JavaScript, React, and exploring AI-driven development.**
+
+- 💬 Ask me about **- JavaScript & TypeScript - Web Development - Git & GitHub - Frontend Development - Programming Fundamentals**
+
+- 📫 How to reach me **takiasultananova@gmail.com**
+
+- 📄 Know about my experiences [https://sites.google.com/view/takiasultananova/home](https://sites.google.com/view/takiasultananova/home)
+
+- ⚡ Fun fact **I often start with “just one small project” and end up learning five new things.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  I’m learning to turn ideas into clean, practical and user-friendly web applications.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takianova&show_icons=true&locale=en&layout=compact" alt="takianova" /></p>
 
-## 👩‍💻 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takianova&show_icons=true&locale=en" alt="takianova" /></p>
 
-I'm Takia, a curious developer from Bangladesh who enjoys learning by building.
-
-I'm currently focused on strengthening my foundation in **JavaScript, TypeScript and modern web development**, while gradually moving toward full-stack development.
-
-I believe good development is not just about writing code — it's about understanding problems, building useful solutions, and continuously improving along the way.
-
-🌱 Currently learning and building with  
-⚡ JavaScript & TypeScript  
-⚛️ React  
-🟢 Node.js  
-🗄️ Databases & APIs  
-🛠️ Git & GitHub  
-
-🎯 My goal is to become a confident full-stack developer who can build reliable, scalable and meaningful products.
-
----
-
-## 🚀 What I'm Working On
-
-- Building projects to strengthen my frontend and backend fundamentals
-- Improving my problem-solving and TypeScript skills
-- Learning how frontend and backend systems work together
-- Exploring better ways to write clean and maintainable code
-- Turning what I learn into real projects
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-JavaScript · TypeScript · HTML · CSS
-
-### Frontend
-React · Tailwind CSS
-
-### Backend
-Node.js · Express.js
-
-### Database
-MongoDB · PostgreSQL
-
-### Tools
-Git · GitHub · VS Code
-
----
-
-## 📌 Featured Projects
-
-Here are some projects I'm building while learning and experimenting with different technologies.
-
-- 🔹 **Project Name** — Short description of what problem it solves
-- 🔹 **Project Name** — Short description of what I learned from building it
-- 🔹 **Project Name** — A project exploring a new technology or concept
-
-> More projects coming as I learn, build and improve.
-
----
-
-## 📚 Currently Learning
-
-```text
-TypeScript
-   ↓
-React & Frontend Architecture
-   ↓
-Node.js & REST APIs
-   ↓
-Databases
-   ↓
-Full-Stack Applications
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
