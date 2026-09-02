@@ -1,21 +1,20 @@
-# 👋 Hi, I'm Takia Sultana Nova
+<p align="center">
+  <img src="./banner.png" alt="Takia Sultana Nova GitHub Banner" width="100%">
+</p>
+<h1 align="center">Hi 👋, I'm Takia Sultana Nova</h1>
 
-### 💻 Aspiring Full Stack Developer | JavaScript & TypeScript Enthusiast
+<h3 align="center">Aspiring Full Stack Developer | JavaScript & TypeScript Enthusiast</h3>
 
-I’m a curious and self-motivated developer who enjoys learning by building practical projects. I’m passionate about JavaScript, TypeScript, and modern web development, and I’m continuously improving my programming and problem-solving skills.
+## 💻👨‍💻 About Me
 
-Currently, I’m focused on strengthening my development fundamentals, building real-world projects, and exploring AI-driven development.
+I'm a curious and self-motivated developer who enjoys learning by building practical projects. I'm passionate about **JavaScript, TypeScript, and modern web development**, and I'm continuously working on improving my programming and problem-solving skills and trying to explore **AI-driven development**.
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **DevConf-2026**
-- 🌱 Currently learning **JavaScript, TypeScript, React, and AI-driven development**
-- 💻 Interested in **Web Development & Software Engineering**
-- 🧩 Enjoy solving problems and learning through projects
-- 📚 Always exploring new technologies and development practices
-- ⚡ Fun fact: I often start with “just one small project” and end up learning five new things.
+- 🔭 I’m currently working on **[DevConf-2026](https://github.com/TakiaNova/assignment1)**
+- 🌱 I’m currently learning **TypeScript, JavaScript, React, and AI-driven development**
+- 💬 Ask me about **JavaScript, TypeScript, Web Development, Git & GitHub, and Frontend Development**
+- 📫 Reach me at **takiasultananova@gmail.com**
+- 📄 Know more about my experience: **[My Portfolio](https://sites.google.com/view/takiasultananova/home)**
+- ⚡ Fun fact: **I often start with “just one small project” and end up learning five new things.**
 
 ---
 
@@ -70,3 +69,17 @@ React
 Full Stack Development
    ↓
 AI-driven Development
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/takia-sultana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://sites.google.com/view/takiasultananova/home))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:takiasultananova@gmail.com)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
