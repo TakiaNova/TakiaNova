@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Takia Sultana Nova GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Takia Sultana Nova</h1>
 
 <p align="center">
