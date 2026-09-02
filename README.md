@@ -55,8 +55,6 @@ A frontend portfolio practice project built with HTML5 and CSS3, featuring profi
 🔗 [Live Demo](https://takianova.github.io/developer_portfolio23/)  
 📂 [View Repository](https://github.com/TakiaNova/developer_portfolio23)
 
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -69,16 +67,14 @@ React
 Full Stack Development
    ↓
 AI-driven Development
----
 
-## 🌐 Connect With Me  
+##🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/takia-sultana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://sites.google.com/view/takiasultananova/home))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:takiasultananova@gmail.com)
 
 ---
-
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 
