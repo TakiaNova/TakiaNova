@@ -1,14 +1,25 @@
 <p align="center">
   <img src="./banner.png" alt="Takia Sultana Nova GitHub Banner" width="100%">
 </p>
-# Hi 👋, I'm <Takia Sultana Nova>  
+# Hi 👋, I'm Takia Sultana Nova  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
-
 ## 👨💻 About Me  
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects.
+
+- 🔭 I’m currently working on [DevConf-2026](https://github.com/TakiaNova/assignment1.git)
+
+- 🌱 I’m currently learning **TypeScript, JavaScript, React, and exploring AI-driven development.**
+
+- 💬 Ask me about **- JavaScript & TypeScript - Web Development - Git & GitHub - Frontend Development - Programming Fundamentals**
+
+- 📫 How to reach me **takiasultananova@gmail.com**
+
+- 📄 Know about my experiences [https://sites.google.com/view/takiasultananova/home](https://sites.google.com/view/takiasultananova/home)
+
+- ⚡ Fun fact **I often start with “just one small project” and end up learning five new things.**
 
 ---
 
