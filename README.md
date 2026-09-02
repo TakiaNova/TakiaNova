@@ -80,6 +80,3 @@ A frontend portfolio practice project built with HTML5 and CSS3, featuring profi
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TakiaNova" alt="TakiaNova GitHub Streak" />
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
