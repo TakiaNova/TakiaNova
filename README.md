@@ -57,25 +57,29 @@ A frontend portfolio practice project built with HTML5 and CSS3, featuring profi
 
 ## 📚 Currently Learning
 
-```text
-JavaScript
-   ↓
-TypeScript
-   ↓
-React
-   ↓
-Full Stack Development
-   ↓
-AI-driven Development
-
-##🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/takia-sultana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://sites.google.com/view/takiasultananova/home))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:takiasultananova@gmail.com)
+- JavaScript
+- TypeScript
+- React
+- Full Stack Development
+- AI-driven Development
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takia-sultana)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/takiasultananova/home)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takiasultananova@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=TakiaNova&style=flat-square)
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TakiaNova" alt="TakiaNova GitHub Streak" />
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
