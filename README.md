@@ -52,6 +52,51 @@ I'm a curious and self-motivated developer who enjoys learning by building pract
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
 
+# 💻 Developer Portfolio Website
+
+A responsive developer portfolio website built with HTML5 and CSS3. The project includes sections for personal information, skills, education, experience, resume, and contact details.
+
+## 🌐 Live Demo
+
+👉 [View Live Website](https://takianova.github.io/developer_portfolio23/)
+
+## 📸 Screenshot
+
+![Developer Portfolio Website](portfolioDemo.png)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts (Open Sans)
+
+## ✨ Main Features
+
+- 👋 Hero / introduction section
+- 👨‍💻 About Me section
+- 🛠️ Skills section
+- 🎓 Education information
+- 💼 Experience section
+- 📄 Resume / CV section
+- 📩 Contact information
+- 📱 Responsive layout
+- 🎨 Clean and structured portfolio design
+
+## 📦 Dependencies
+
+This is a static frontend project and does not require npm packages or any package installation.
+
+External resource used:
+
+- Google Fonts – Open Sans
+
+## 🚀 Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/TakiaNova/developer_portfolio23.git
+```
 # ⚽ Responsive Football Website
 
 A responsive football-themed website built with HTML5 and CSS3. The project presents football players, Copa America content, match information, a sign-in interface, and responsive layouts.
@@ -97,52 +142,3 @@ External resources used:
 
 ```bash
 git clone https://github.com/TakiaNova/responsive-football-repo.git
-
-
-### `developer_portfolio23` — README.md
-
-```md
-# 💻 Developer Portfolio Website
-
-A responsive developer portfolio website built with HTML5 and CSS3. The project includes sections for personal information, skills, education, experience, resume, and contact details.
-
-## 🌐 Live Demo
-
-👉 [View Live Website](https://takianova.github.io/developer_portfolio23/)
-
-## 📸 Screenshot
-
-![Developer Portfolio Website](./portfolioDemo.png)
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- Google Fonts (Open Sans)
-
-## ✨ Main Features
-
-- 👋 Hero / introduction section
-- 👨‍💻 About Me section
-- 🛠️ Skills section
-- 🎓 Education information
-- 💼 Experience section
-- 📄 Resume / CV section
-- 📩 Contact information
-- 📱 Responsive layout
-- 🎨 Clean and structured portfolio design
-
-## 📦 Dependencies
-
-This is a static frontend project and does not require npm packages or any package installation.
-
-External resource used:
-
-- Google Fonts – Open Sans
-
-## 🚀 Run Locally
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/TakiaNova/developer_portfolio23.git
