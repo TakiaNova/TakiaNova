@@ -1,25 +1,22 @@
 <p align="center">
   <img src="./banner.png" alt="Takia Sultana Nova GitHub Banner" width="100%">
 </p>
-# Hi 👋, I'm Takia Sultana Nova  
-### 🔭 I build things with JavaScript, React, and Node.js
+# 👋 Hi, I'm Takia Sultana Nova
 
----
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects.
+### 💻 Aspiring Software Developer | JavaScript & TypeScript Enthusiast
 
-- 🔭 I’m currently working on [DevConf-2026](https://github.com/TakiaNova/assignment1.git)
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, React, and exploring AI-driven development.**
+I'm a curious and self-motivated developer who enjoys learning by building practical projects. I'm passionate about **JavaScript, TypeScript, and modern web development**, and I'm continuously working on improving my programming and problem-solving skills.
 
-- 💬 Ask me about **- JavaScript & TypeScript - Web Development - Git & GitHub - Frontend Development - Programming Fundamentals**
+Currently, I'm focused on building real-world projects, strengthening my development fundamentals, and exploring **AI-driven development**.
 
-- 📫 How to reach me **takiasultananova@gmail.com**
-
-- 📄 Know about my experiences [https://sites.google.com/view/takiasultananova/home](https://sites.google.com/view/takiasultananova/home)
-
-- ⚡ Fun fact **I often start with “just one small project” and end up learning five new things.**
+- 🔭 I’m currently working on **DevConf-2026**
+- 🌱 I’m currently learning **TypeScript, JavaScript, React, and AI-driven development**
+- 💬 Ask me about **JavaScript, TypeScript, Web Development, Git & GitHub, and Frontend Development**
+- 📫 Reach me at **takiasultananova@gmail.com**
+- 📄 Know more about my experience: **[My Portfolio](https://sites.google.com/view/takiasultananova/home)**
+- ⚡ Fun fact: **I often start with “just one small project” and end up learning five new things.**
 
 ---
 
