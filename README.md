@@ -47,145 +47,53 @@ I'm a curious and self-motivated developer who enjoys learning by building pract
 
 ---
 
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takianova&" alt="takianova" /></p>
 
-# Project Name  
-A short one-line subtitle that describes what this project does.
+# ⚽ Responsive Football Website
 
----
+A responsive football-themed website built with HTML5 and CSS3. The project presents football players, Copa America content, match information, a sign-in interface, and responsive layouts.
 
-## Table of Contents
+## 🌐 Live Demo
 
-- [About the Project](#about-the-project)
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Dependencies](#dependencies)
-- [Installation️ & Setup](#installation--setup)
-- [Folder Structure](#folder-structure)
-- [Contributions](#contributions)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Contact](#contact)
+👉 [View Live Website](https://takianova.github.io/responsive-football-repo/)
 
----
+## 📸 Screenshot
 
-## About the Project 
-A brief description of the project, its purpose, and what problem it solves.
+![Responsive Football Website](./banner.png)
 
----
+## 🛠️ Technologies Used
 
-## Project Overview  
-Summarize the project objectives, key metrics, and any relevant statistics.  
-You can also include a diagram or screenshot.
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
+- Font Awesome
 
----
+## ✨ Main Features
 
-## Key Features  
-- Feature 1 — short explanation  
-- Feature 2 — short explanation  
-- Feature 3 — short explanation  
-- Authentication / Dashboard / API Integration (optional examples)
+- ⚽ Copa America 2021 themed hero section
+- 👤 Football player profile cards
+- 🖼️ Image hover transition effect
+- 🏆 Match result section
+- 🔐 Sign-in form interface
+- 📱 Responsive layout for different screen sizes
+- 🔗 Social media icons
+- 🎨 Custom styling using CSS
 
----
+## 📦 Dependencies
 
-## Tech Stack  
-**Frontend:** React.js · Tailwind CSS · TypeScript  
-**Backend:** Node.js · Express.js · MongoDB  
-**Tools:** Git · VS Code · Firebase · JWT
+This is a static frontend project, so no npm packages or package installation are required.
 
----
+External resources used:
 
-## Dependencies  
-List required dependencies or major libraries:
+- Google Fonts – Poppins
+- Font Awesome
 
-```json
-{
-  "react": "^18.x",
-  "express": "^4.x",
-  "mongoose": "^7.x",
-  "tailwindcss": "^3.x"
-}
-```
+## 🚀 Run Locally
 
----
-
-## Installation️ & Setup
-1. Clone the repo and install dependencies:
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/touhidcodes/Resume-Craft
-cd resume-craft
-npm install
-```
-
-2. Set up environment variables by creating a `.env` file in the root directory:
-
-```env
-DATABASE_URL=your_database_url
-JWT_SECRET=your_jwt_secret
-```
-
-3. Run the application:
-
-```bash
-npm run dev
-```
-
----
-
-## Folder Structure
-
-```plaintext
-your-project/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   └── hooks/
-├── public/
-└── package.json
-```
-
----
-
-## Contributions (Optional)
-If this is a team project, mention contributors.
-
-| Name            | Role                | Contributions                            |  
-|-----------------|---------------------|------------------------------------------|  
-| Member-1        | Role                | Contributions                            |  
-| Member-2        | Role                | Contributions                            |  
-
----
-
-## How to Contribute (Optional)
-
-  - Fork the Project
-  - Create a branch (`git checkout -b feature/AmazingFeature`)
-  - Commit changes (`git commit -m 'Add some AmazingFeature'`)
-  - Push the branch (`git push origin feature/AmazingFeature`)
-  - Open a Pull Request
-
----
-
-
----
-
-## Contact
-
-**Live URL:** [Live Site](https://yourdomain.com/)
-**Email:** [username](your-email@example.com)
-**Portfolio:** [Portfolio](https://yourportfolio.com)
+git clone https://github.com/TakiaNova/responsive-football-repo.git
