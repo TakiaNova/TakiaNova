@@ -1,11 +1,11 @@
 <p align="center">
   <img src="./banner.png" alt="Takia Sultana Nova GitHub Banner" width="100%">
 </p>
-# 👋 Hi, I'm Takia Sultana Nova
+<h1 align="center">Hi 👋, I'm Takia Sultana Nova</h1>
 
-### 💻 Aspiring Software Developer | JavaScript & TypeScript Enthusiast
+### Aspiring Software Developer | JavaScript & TypeScript Enthusiast
 
-## 👨‍💻 About Me
+## 💻👨‍💻 About Me
 
 I'm a curious and self-motivated developer who enjoys learning by building practical projects. I'm passionate about **JavaScript, TypeScript, and modern web development**, and I'm continuously working on improving my programming and problem-solving skills.
 
